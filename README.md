@@ -87,3 +87,18 @@ Added after review feedback. This version removes the stylized foreground red ga
 - `assets/future_edo_cranes_ascii_clean_breathe.mp4`
 - `assets/contact_sheet_ascii_video_clean.png`
 - `assets/CLEAN_VERSION.md`
+
+
+## Bare buildings-and-cranes version
+
+Published a stripped-back alternate version focused on buildings and minimal crane forms. It removes the extra graphic overlays: red foreground gate lines, white angled roof/Fuji lines, kana/data-rain clutter, foreground ribs, and stylized text-bird overlays.
+
+Direct files:
+
+- `assets/future_edo_cranes_ascii_bare.mp4`
+- `assets/future_edo_cranes_ascii_bare_breathe.mp4`
+- `assets/contact_sheet_ascii_video_bare.png`
+- `assets/future_edo_cranes_ascii_bare_outputs.zip`
+- `assets/BARE_VERSION.md`
+
+Bare ZIP SHA-256: `05a5f812c799e718dafe46e0a67e2943f6bd3fb476b2830a851d094eca34fd73`

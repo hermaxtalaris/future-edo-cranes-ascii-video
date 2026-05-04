@@ -10,6 +10,11 @@
     "sha256": "6b02872d957bd319a265d1921066441e6607415d4310248bb298a4516adf9d47"
   },
   {
+    "name": "BARE_VERSION.md",
+    "bytes": 1421,
+    "sha256": "bdfa0bf7cf719fed0c563f9e3e0c92be7e9c73e6db51d998000c5efa52246555"
+  },
+  {
     "name": "CLEAN_VERSION.md",
     "bytes": 1285,
     "sha256": "36e809874f44e7659d05d03f2b30250902f04ca5733f758527bcb3922d56a216"
@@ -25,6 +30,11 @@
     "sha256": "b31c12151f6a45d83952591ea7e17f916d9758d3e8a2721e065a8c8fffcc4c4a"
   },
   {
+    "name": "contact_sheet_ascii_video_bare.png",
+    "bytes": 705459,
+    "sha256": "31b7b96516155cd37f85492c4818701677c3d586bc464bfd95a90afbc6d2b098"
+  },
+  {
     "name": "contact_sheet_ascii_video_clean.png",
     "bytes": 1279409,
     "sha256": "d9f28d9d7c50c96febd22b521367805b152fb39a64678f93408afa21daceb20d"
@@ -38,6 +48,31 @@
     "name": "future_edo_cranes_ascii.mp4",
     "bytes": 17521052,
     "sha256": "f13e67e64c70195b3783574342fd0c880fa377369bf35114b33149c44bf1bdaf"
+  },
+  {
+    "name": "future_edo_cranes_ascii_bare.gif",
+    "bytes": 9989543,
+    "sha256": "846567fdf8918b79ef372c19f07a8b95786726975be5363f0e15819afaec6146"
+  },
+  {
+    "name": "future_edo_cranes_ascii_bare.mp4",
+    "bytes": 7038356,
+    "sha256": "651a8a5cbb83e41ca1bee5ea4249f28663addd00d25a9431377f4d83cad03964"
+  },
+  {
+    "name": "future_edo_cranes_ascii_bare_breathe.gif",
+    "bytes": 11035628,
+    "sha256": "4c4ab6ca5486c7a290f09622a236fe781e84edea6fdf05353960506f43348f07"
+  },
+  {
+    "name": "future_edo_cranes_ascii_bare_breathe.mp4",
+    "bytes": 7373318,
+    "sha256": "f964c3114291e5caf89e3567d711cadf33d6a3ea9b91c0b19fdce2a3080b3b64"
+  },
+  {
+    "name": "future_edo_cranes_ascii_bare_outputs.zip",
+    "bytes": 36008980,
+    "sha256": "05a5f812c799e718dafe46e0a67e2943f6bd3fb476b2830a851d094eca34fd73"
   },
   {
     "name": "future_edo_cranes_ascii_breathe.gif",
@@ -70,9 +105,14 @@
     "sha256": "586d5bfc0f5d8d5b7d1a26d583db867a89c5bffb6c821bd5b7920262a5056c14"
   },
   {
+    "name": "future_edo_cranes_ascii_clean_outputs.zip",
+    "bytes": 84084991,
+    "sha256": "e795b230a392ec14b95ac8ff0709b8fbc85e8f024c87dfe1a49a03f1a02f6817"
+  },
+  {
     "name": "manifest.json",
-    "bytes": 2040,
-    "sha256": "9c2b488ac17d5fe91c0941c27508405ead2328133b63d64b530ab5dbb3193978"
+    "bytes": 5009,
+    "sha256": "982431b4ac812a94e32b83dcef6b7757f0616961afcd4637822f7f7014b62a0c"
   },
   {
     "name": "manifest_rendered.json",
@@ -83,6 +123,16 @@
     "name": "poster_ascii_2s.png",
     "bytes": 342510,
     "sha256": "3740c6a9cef70df8a21589f7fe45d01a6510ac32a7177c35e73a56e56a984d23"
+  },
+  {
+    "name": "poster_bare_ascii_2s.png",
+    "bytes": 99466,
+    "sha256": "7dfeab064301be5b9d3b9d46ecccf29a5339b2419c245b8469690ff8ba456781"
+  },
+  {
+    "name": "poster_bare_breathe_2s.png",
+    "bytes": 108184,
+    "sha256": "f3e53a203e036be7a4d2662089ceab5fc52eb78eaacf5cc2362728fac01d3120"
   },
   {
     "name": "poster_breathe_2s.png",
@@ -103,6 +153,11 @@
     "name": "render_ascii_city.py",
     "bytes": 13579,
     "sha256": "8d44d96a8c4685c4870ed32df60c253fb7ab6c3d7f85ac12177b0cf36bf41a36"
+  },
+  {
+    "name": "render_ascii_city_bare.py",
+    "bytes": 6888,
+    "sha256": "90e281349a9b5a0a1373f1d35b29c3577e114c7ae32966a4768f07025b4597cc"
   },
   {
     "name": "render_ascii_city_clean.py",
