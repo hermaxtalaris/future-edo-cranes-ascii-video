@@ -10,9 +10,24 @@
     "sha256": "6b02872d957bd319a265d1921066441e6607415d4310248bb298a4516adf9d47"
   },
   {
+    "name": "CLEAN_VERSION.md",
+    "bytes": 1285,
+    "sha256": "36e809874f44e7659d05d03f2b30250902f04ca5733f758527bcb3922d56a216"
+  },
+  {
+    "name": "README.md",
+    "bytes": 3441,
+    "sha256": "d4ff139753ba828ef1612d4772bc7916281ef25a9a98c3d2f0257b288ef81678"
+  },
+  {
     "name": "contact_sheet_ascii_video.png",
     "bytes": 1295708,
     "sha256": "b31c12151f6a45d83952591ea7e17f916d9758d3e8a2721e065a8c8fffcc4c4a"
+  },
+  {
+    "name": "contact_sheet_ascii_video_clean.png",
+    "bytes": 1279409,
+    "sha256": "d9f28d9d7c50c96febd22b521367805b152fb39a64678f93408afa21daceb20d"
   },
   {
     "name": "future_edo_cranes_ascii.gif",
@@ -35,9 +50,34 @@
     "sha256": "e343d5b833e141980a90047dec1ac7750027267ba16766f0347e6c46d17eb429"
   },
   {
-    "name": "manifest_rendered.json",
+    "name": "future_edo_cranes_ascii_clean.gif",
+    "bytes": 19296112,
+    "sha256": "98366c79aeaa5fdbdbc34eec37024cd5cd6af1454a73e8fcc6da9584adffcad2"
+  },
+  {
+    "name": "future_edo_cranes_ascii_clean.mp4",
+    "bytes": 16791915,
+    "sha256": "524afb60ebaa17c13385bd65af5323da1e345a0c20238bd63b610fe096b83f30"
+  },
+  {
+    "name": "future_edo_cranes_ascii_clean_breathe.gif",
+    "bytes": 22843443,
+    "sha256": "6c1ff10b2f48658aebacf982e4ae5995aff2b11f379b5e897c143c0db6527ba2"
+  },
+  {
+    "name": "future_edo_cranes_ascii_clean_breathe.mp4",
+    "bytes": 24007039,
+    "sha256": "586d5bfc0f5d8d5b7d1a26d583db867a89c5bffb6c821bd5b7920262a5056c14"
+  },
+  {
+    "name": "manifest.json",
     "bytes": 2040,
-    "sha256": "89a09b75822112c55237f51dd19a2014887f682657476dca8bb8afa288088f31"
+    "sha256": "9c2b488ac17d5fe91c0941c27508405ead2328133b63d64b530ab5dbb3193978"
+  },
+  {
+    "name": "manifest_rendered.json",
+    "bytes": 3463,
+    "sha256": "f301646689cbe26e5c2e71e13a2f356a072d02a2cb4b52ab4309cb43444355f7"
   },
   {
     "name": "poster_ascii_2s.png",
@@ -50,9 +90,24 @@
     "sha256": "838a43b0a4c4b8e01b24200bb818f0572139ef1845f25bc83e4c4a91f9a6f715"
   },
   {
+    "name": "poster_clean_ascii_2s.png",
+    "bytes": 332222,
+    "sha256": "5191f0f92a87d63e338e5f83f30df10488d4cb6c5f3c728f193e90cd7e140606"
+  },
+  {
+    "name": "poster_clean_breathe_2s.png",
+    "bytes": 941569,
+    "sha256": "61d97e6426f0d4e09f1e4ae2d5d8b7be0501da6d8dd247dbc87960c9c200f740"
+  },
+  {
     "name": "render_ascii_city.py",
     "bytes": 13579,
     "sha256": "8d44d96a8c4685c4870ed32df60c253fb7ab6c3d7f85ac12177b0cf36bf41a36"
+  },
+  {
+    "name": "render_ascii_city_clean.py",
+    "bytes": 12176,
+    "sha256": "f06bb423823be64f5f72dba33bed82a9bf99189ae52bad265ca802673ad91282"
   },
   {
     "name": "source_ffprobe.json",

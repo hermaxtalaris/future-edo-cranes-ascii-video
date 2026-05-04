@@ -77,3 +77,13 @@ Windows/WSL path:
 ## GitHub Pages
 
 Open `index.html` via GitHub Pages to view all outputs inline.
+
+
+## Clean / no-overlay alternate version
+
+Added after review feedback. This version removes the stylized foreground red gate lines, white angled Fuji/roofline lines, kana marks, and white text-bird/crane overlays.
+
+- `assets/future_edo_cranes_ascii_clean.mp4`
+- `assets/future_edo_cranes_ascii_clean_breathe.mp4`
+- `assets/contact_sheet_ascii_video_clean.png`
+- `assets/CLEAN_VERSION.md`
