@@ -1,0 +1,67 @@
+[
+  {
+    "name": "1777894707-bytedance-seedance-2.0-text-to-video-1.mp4",
+    "bytes": 3517280,
+    "sha256": "91a633903b1e536e16e868cda556d3b4cde8604e3e25c81267ecf0ef896d1d7c"
+  },
+  {
+    "name": "1777894707-bytedance-seedance-2.0-text-to-video-result.json",
+    "bytes": 215,
+    "sha256": "6b02872d957bd319a265d1921066441e6607415d4310248bb298a4516adf9d47"
+  },
+  {
+    "name": "contact_sheet_ascii_video.png",
+    "bytes": 1295708,
+    "sha256": "b31c12151f6a45d83952591ea7e17f916d9758d3e8a2721e065a8c8fffcc4c4a"
+  },
+  {
+    "name": "future_edo_cranes_ascii.gif",
+    "bytes": 18639256,
+    "sha256": "9336b93dd3729e51c93c98d43e37831fdead7320393820230ddd009588e02beb"
+  },
+  {
+    "name": "future_edo_cranes_ascii.mp4",
+    "bytes": 17521052,
+    "sha256": "f13e67e64c70195b3783574342fd0c880fa377369bf35114b33149c44bf1bdaf"
+  },
+  {
+    "name": "future_edo_cranes_ascii_breathe.gif",
+    "bytes": 22634650,
+    "sha256": "db57603d34f3684679c74e93c345f97cdeccce9298e24cdecb987c37f7cbdabe"
+  },
+  {
+    "name": "future_edo_cranes_ascii_breathe.mp4",
+    "bytes": 24615228,
+    "sha256": "e343d5b833e141980a90047dec1ac7750027267ba16766f0347e6c46d17eb429"
+  },
+  {
+    "name": "manifest_rendered.json",
+    "bytes": 1893,
+    "sha256": "ebbef2718110ecd2ab7dc2a9565e246a0ee57ad074c31a2442a5e93c02cd5413"
+  },
+  {
+    "name": "poster_ascii_2s.png",
+    "bytes": 342510,
+    "sha256": "3740c6a9cef70df8a21589f7fe45d01a6510ac32a7177c35e73a56e56a984d23"
+  },
+  {
+    "name": "poster_breathe_2s.png",
+    "bytes": 962229,
+    "sha256": "838a43b0a4c4b8e01b24200bb818f0572139ef1845f25bc83e4c4a91f9a6f715"
+  },
+  {
+    "name": "render_ascii_city.py",
+    "bytes": 13579,
+    "sha256": "8d44d96a8c4685c4870ed32df60c253fb7ab6c3d7f85ac12177b0cf36bf41a36"
+  },
+  {
+    "name": "source_ffprobe.json",
+    "bytes": 374,
+    "sha256": "3a57cdb984b320ad5843a29c9d18a422338d7f3d40fd2862035871913104b263"
+  },
+  {
+    "name": "source_preview_2s.jpg",
+    "bytes": 60991,
+    "sha256": "c8db6d8a78d4637d3ca3f0c75a9f165643cc53a1adaa62eb117f9f961eb52feb"
+  }
+]

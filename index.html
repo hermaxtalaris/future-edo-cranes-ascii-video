@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Future Edo Cranes — Breathing ASCII Video</title>
+<style>
+:root{color-scheme:dark;--bg:#050914;--panel:#0b1424;--cyan:#73e8ff;--pink:#ff5f87;--paper:#dceef0;--muted:#89a8b5}*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 50% 0,#12304a 0,#050914 46%,#02050b 100%);color:var(--paper);font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;line-height:1.55}main{max-width:1180px;margin:auto;padding:32px 18px 70px}h1{font-size:clamp(30px,6vw,70px);line-height:.95;margin:22px 0 10px;letter-spacing:-.06em}h2{color:var(--cyan);margin-top:40px}.tag{color:var(--pink);text-transform:uppercase;letter-spacing:.16em}.hero{border:1px solid rgba(115,232,255,.4);padding:14px;background:rgba(5,9,20,.72);box-shadow:0 0 60px rgba(85,210,255,.16)}video,img{width:100%;height:auto;display:block;border:1px solid rgba(255,255,255,.12);background:#000}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px}.card{background:rgba(11,20,36,.78);border:1px solid rgba(115,232,255,.2);padding:14px}.links a{display:inline-block;margin:6px 8px 6px 0;padding:8px 11px;border:1px solid rgba(255,95,135,.5);color:#ffd4de;text-decoration:none}.links a:hover{background:rgba(255,95,135,.12)}code{color:#b7f4ff}.small{color:var(--muted);font-size:14px}.seal{float:right;color:var(--pink);border:2px solid var(--pink);padding:8px;margin-top:8px}</style>
+</head>
+<body><main>
+<div class="tag">FAL text-to-video → high-density ASCII → generative breathing pass</div>
+<div class="seal">鶴<br>未来</div>
+<h1>Future Edo Cranes</h1>
+<p>A five-second 720p futuristic Japanese cityscape generated with FAL, converted into cinematic ASCII video, then modified into a pulsing/breathing generative terminal-city variant.</p>
+<section class="hero"><video controls loop muted playsinline poster="assets/poster_breathe_2s.png"><source src="assets/future_edo_cranes_ascii_breathe.mp4" type="video/mp4"></video></section>
+<div class="links">
+<a href="assets/future_edo_cranes_ascii.mp4">ASCII MP4</a>
+<a href="assets/future_edo_cranes_ascii_breathe.mp4">Breathing ASCII MP4</a>
+<a href="assets/future_edo_cranes_ascii.gif">ASCII GIF</a>
+<a href="assets/future_edo_cranes_ascii_breathe.gif">Breathing GIF</a>
+<a href="assets/futuristic-japanese-city-ascii-video-2026-05-04.zip">Full ZIP</a>
+<a href="assets/render_ascii_city.py">Renderer script</a>
+</div>
+<h2>Outputs</h2>
+<div class="grid">
+<div class="card"><h3>Source FAL video</h3><video controls muted loop playsinline poster="assets/source_preview_2s.jpg"><source src="assets/1777894707-bytedance-seedance-2.0-text-to-video-1.mp4" type="video/mp4"></video></div>
+<div class="card"><h3>High-quality ASCII conversion</h3><video controls muted loop playsinline poster="assets/poster_ascii_2s.png"><source src="assets/future_edo_cranes_ascii.mp4" type="video/mp4"></video></div>
+<div class="card"><h3>Pulse / breathe generative variant</h3><video controls muted loop playsinline poster="assets/poster_breathe_2s.png"><source src="assets/future_edo_cranes_ascii_breathe.mp4" type="video/mp4"></video></div>
+<div class="card"><h3>QA contact sheet</h3><a href="assets/contact_sheet_ascii_video.png"><img src="assets/contact_sheet_ascii_video.png" alt="ASCII video contact sheet"></a></div>
+</div>
+<h2>Process</h2>
+<ul>
+<li>FAL endpoint: <code>bytedance/seedance-2.0/text-to-video</code></li>
+<li>Generation: 720p, 16:9, 5 seconds, no audio, seed <code>1843799664</code></li>
+<li>ASCII renderer: OpenCV frame decode + Pillow glyph rasterization + ffmpeg encoding</li>
+<li>Prompt-critical fixes: explicit white crane glyphs, torii-like canal gate, Fuji ridge, kana-like neon marks</li>
+<li>Breathing pass: slow luminance pulse, architectural ripple arcs, scanline/glow modulation, stable city structure</li>
+</ul>
+<p class="small">All file hashes and metadata are in <a href="assets/manifest.json">manifest.json</a>. Full notes are in <a href="assets/README.md">README.md</a>.</p>
+</main></body></html>
